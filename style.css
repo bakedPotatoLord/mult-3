@@ -1,0 +1,38 @@
+
+body{
+	background-color:beige;
+	text-align:center;
+	justify-self: center;
+}
+
+
+
+#c{
+	border:2px solid black;
+	cursor:none;
+
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+
+label{
+	font-family: 'Bree Serif', serif;
+	font-size:36px;
+}
+
+#nameInp{
+	margin-top:10px;
+	padding:10px;
+	font-size:36px;
+	font-family: 'Bree Serif', serif;
+}
+
+.hidden{
+	display:none;
+}
+
